@@ -1,0 +1,94 @@
+﻿  main.cpp
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(68,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(72,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(76,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(80,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(246,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(246,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(254,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(254,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(311,52): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(311,43): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(314,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VisualStudioProjects\SFML_Project1\SFML_Project1\main.cpp(314,42): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  SFML_Project1.vcxproj -> D:\VisualStudioProjects\SFML_Project1\x64\Debug\SFML_Project1.exe
